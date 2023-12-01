@@ -24,7 +24,7 @@ To interact with the DegenToken contract, you can use Remix, an online Solidity 
 
 ## Help
 
-If you encounter any issues, have questions, or need assistance, feel free to reach out for help. You can:
+If you encounter any issues, have questions, or need assistance, feel free to reach out for help.
 
 ## Authors
 
